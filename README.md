@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer engineering undergraduate seeking an opportunity to work in a fun and challenging environment that will encourage him to learn new and necessary skills as well as be motivated by the company to do his best for the sake of helping himself and the company in the software engineering industry. Getting Started with Open-Source Contribution<br><br><br>- 🌱 I’m currently learning **DevOps, React-Native**<br><br>- 👯 I’m looking to collaborate on **Open-Source Projects**<br><br>- 🤝 I’m looking for help with **anything that will help me with Open-Source Journey**<br><br>- 📫 How to reach me **kshitijpatil1098@gmail.com**<br><br>- 📄 Know about my experiences [https://drive.google.com/file/d/1X_-f9dc07e-rV4uNR3S_RU7A5-AvWtos/view](https://drive.google.com/file/d/1X_-f9dc07e-rV4uNR3S_RU7A5-AvWtos/view)
+Computer engineering undergraduate seeking an opportunity to work in a fun and challenging environment that will encourage him to learn new and necessary skills as well as be motivated by the company to do his best for the sake of helping himself and the company in the software engineering industry. Getting Started with Open-Source Contribution<br><br><br>- 🌱 I’m currently learning **DevOps, React-Native**<br><br>- 🤝 **Open-Source Collaborator at** [Oppia](https://github.com/oppia/oppia/)<br><br>- 📫 How to reach me **kshitijpatil1098@gmail.com**<br><br>- 📄 Know about my experiences [https://drive.google.com/file/d/1X_-f9dc07e-rV4uNR3S_RU7A5-AvWtos/view](https://drive.google.com/file/d/1X_-f9dc07e-rV4uNR3S_RU7A5-AvWtos/view)
 
 
 ## 🌐 Socials:
@@ -15,10 +15,5 @@ Computer engineering undergraduate seeking an opportunity to work in a fun and c
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kshitij01042002&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=kshitij01042002&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
